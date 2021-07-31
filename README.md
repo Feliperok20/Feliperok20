@@ -1,6 +1,6 @@
 ### Hi 👋
 ### I'm a curious guy who likes code. I am learning and consuming everything that is involved with technology.
-###I like challenges and that's why I got into this universe.
+### I like challenges and that's why I got into this universe.
 
 
 felipe-rocha:
