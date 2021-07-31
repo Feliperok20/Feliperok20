@@ -27,7 +27,7 @@ Bellow, there is my skills and more information:
        hobbies:
            - Code
            - Play Games
-           - Play Drums
+           - Play Drumms
 
        study:
            - computer engineering, USJT
