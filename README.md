@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi 👋
+### I'm a curious guy who likes code. I am learning and consuming everything that is involved with technology.
+###I like challenges and that's why I got into this universe.
 
-<!--
-**Feliperok20/Feliperok20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+felipe-rocha:
+    
+    personal:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        local: "São Paulo, Brazil"
+        email: "feliperok20@aol.com"
+        born: "1992-10-08"
+
+    loves:
+        - Jesus
+        - Family
+        - Friends
+        - Games
+        - Code
+
+    hobbies:
+        - Code
+        - Play Games
+        - Beach's travel
+
+    study:
+        - computer engineering, USJT
+        - Industrial automation technician, IFSP
+
+    skills:
+
+        backend: 
+            - "Java"
+            - "Javascript"
+            - "Spring (Boot, Batch,Data)"
+        
+        frontend:
+            - "React Native"
+
+        
+
